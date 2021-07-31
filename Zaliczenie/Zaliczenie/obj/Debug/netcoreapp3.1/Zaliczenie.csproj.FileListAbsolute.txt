@@ -1,0 +1,13 @@
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.exe
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.deps.json
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.json
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.dll
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.pdb
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.dll
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.pdb
+C:\Users\Kuba\Desktop\Zaliczenie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.genruntimeconfig.cache
